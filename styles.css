@@ -1,0 +1,30 @@
+.content-part {
+    background-color: white;
+    margin: 30px auto 30px auto;
+    padding: 40px 40px 60px 40px;
+    border-radius: 15px;
+    width: 500px;
+  }
+.input-group{
+    margin: 10px;
+}
+input{
+    height: 25px;
+    margin-top: 4px;
+    width: 100%;
+}
+h1 {
+    text-align: center;
+}
+body{
+    background-color: #ecffce;
+}
+.green-button{
+    background-color: #4caf50 !important;
+    border-radius: 2px;
+    color: white;
+    cursor: pointer;
+    border: none;
+    width: 80px;
+    height: 30px;
+}
